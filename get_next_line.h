@@ -6,14 +6,14 @@
 /*   By: lboukrou <lboukrou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/03/26 20:53:10 by lboukrou          #+#    #+#             */
-/*   Updated: 2018/04/10 21:06:21 by lboukrou         ###   ########.fr       */
+/*   Updated: 2019/12/21 18:08:01 by lboukrou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 
-# include "libft/libft.h"
+# include "libft.h"
 # include <unistd.h>
 # include <fcntl.h>
 
